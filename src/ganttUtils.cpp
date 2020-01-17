@@ -1,6 +1,3 @@
-// Brian Wong
-// CS 302 - 1004
-// Assignment #11B Function File
 
 #include "ganttUtils.h"
 #include "linkedQueue.h"

@@ -1,6 +1,3 @@
-// Brian Wong
-// CS 302 - 1004
-// Assignment #11B Header File
 
 #include <iostream>
 #include "linkedQueue.h"

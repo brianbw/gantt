@@ -1,6 +1,4 @@
-// Brian Wong
-// Assignment #4 Queue
-// CS 302 - 1004 
+
 #ifndef H_LINKEDQUEUE
 #define H_LINKEDQUEUE
 

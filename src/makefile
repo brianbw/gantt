@@ -1,6 +1,3 @@
-# Brian Wong
-# CS 302 - 1004
-# Assignment #11B Makefile
 
 OBJS	= projectInfo.o ganttUtils.o
 CC		= g++ -g -Wall -pedantic -std=c++11 -pthread -O3 
